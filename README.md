@@ -60,10 +60,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReikyX&show_icons=true&bg_color=007BFF&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReikyX&layout=compact&bg_color=007BFF&title_color=ffffff&text_color=ffffff&hide_border=true)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReikyX&show_icons=true&bg_color=45,007BFF,8A2BE2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Banner" />
 </p>
